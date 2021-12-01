@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/Adventofcode/obj
+/Adventofcode/bin/Debug/net6.0
+/Adventofcode/.vs/Adventofcode/v17
+/.vs
