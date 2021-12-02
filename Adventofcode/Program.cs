@@ -3,12 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.IO;
 
-namespace MyApp // Note: actual namespace depends on the project name.
+namespace AdventOfCode // Note: actual namespace depends on the project name.
 {
     public class Program
     {
         public static void Main(string[] args)
         {
+            Day2.Second();
+            Day2.First();
             DayOneSecond();
             DayOne();
            
