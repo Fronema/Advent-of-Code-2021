@@ -33,8 +33,6 @@ namespace AdventOfCode
             }
 
             var result = depth * horizontal;
-
-
         }
 
         public static void Second()
@@ -63,8 +61,6 @@ namespace AdventOfCode
             }
 
             var result = depth * horizontal;
-
-
-        2}
+        }
     }
 }
